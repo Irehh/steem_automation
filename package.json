@@ -1,7 +1,7 @@
 {
   "name": "steem_automation",
   "version": "1.0.0",
-  "main": "steem_automation.js",
+  "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
