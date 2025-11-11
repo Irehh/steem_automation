@@ -67,7 +67,7 @@ Before you begin, ensure you have the following:
 
 ### Step 1: Clone the Repository
 ```bash
-git clone https://github.com/yourusername/steem_automation.git
+git clone https://github.com/irehh/steem_automation.git
 cd steem_automation
 ```
 
