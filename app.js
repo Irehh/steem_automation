@@ -52,7 +52,7 @@ if (fs.existsSync(imageHashFile)) {
 // Initialize clients
 const openai = new OpenAI({
   baseURL: "https://models.inference.ai.azure.com",
-  apiKey: githubToken,
+  n : githubToken,
 })
 
 const client = new TelegramClient(stringSession, apiId, apiHash, {
